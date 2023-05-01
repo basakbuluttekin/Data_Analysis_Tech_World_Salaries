@@ -4,7 +4,8 @@
 
 #Importing
 
-- Excel file was imported with then table head and data types were checked.
+- Excel file was imported with then table head and data types were checked. At the beginning there was 62K raws in excel file and it decreased to 57K
+after all cleaning and manipulation jobs.
 
 #Cleaning 
 - Unnecessary columns have been removed. Required columns (like country) were added to data frame. 
@@ -25,3 +26,6 @@
 
 #Results
 - Results have been generated with mySQL to analyze the differences between job titles, genders, races, experiences, etc...
+
+
+#JIRA link : https://basakbuluttekin.atlassian.net/jira/software/projects/P3DC/boards/3
